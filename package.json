@@ -1,0 +1,11 @@
+{
+  "name": "benstutorial",
+  "version": "1.0.0",
+  "description": "Ben's nifty node-ci-heroku tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ben",
+  "license": "ISC"
+}
