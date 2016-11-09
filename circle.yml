@@ -9,3 +9,9 @@ dependencies:
 test:
     override: 
         - npm run test-once
+
+deployment:
+    staging:
+        branch: master
+        heroku:
+            appname: benstutorial
